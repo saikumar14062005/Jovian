@@ -1,0 +1,29 @@
+.joboppurtunities p{
+    margin-top: 0px;
+    color: gray;
+   }
+.apply{
+    margin-top: -100px;
+    float: right;
+    /* color: blue; */
+    /* text-decoration: underline; */
+
+}
+.footer{
+    text-align: center;
+    background-color: bisque;
+}
+.footer ul{
+    /* text-align: center; */
+    list-style: none;
+    margin-bottom: 0;
+}
+.footer li{
+    text-align: center;
+    display: inline;
+    padding: 3px;
+}
+.footer p{
+margin-top: 0;
+color: gray;
+}
